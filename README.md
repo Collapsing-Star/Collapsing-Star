@@ -5,8 +5,7 @@
 - 📫 How to reach me: alonzo.varela35@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Army Veteran / I have 3 large Great Danes
+  echo "Hello, What is your name?"
+  read "Master Poopy"
+  echo "Welcome, $name"
 
-<!---
-Collapsing-Star/Collapsing-Star is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
