@@ -5,7 +5,5 @@
 - 📫 How to reach me: alonzo.varela35@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Army Veteran / I have 3 large Great Danes
-  echo "Hello, What is your name?"
-  read "Master Poopy"
-  echo "Welcome, $name"
+  
 
